@@ -82,4 +82,6 @@
             <button class="btn btn-primary">計算</button>
         </div>
       </form>
+
+      <img src="/storage/calunitfornitmark.png">      
 @endsection
