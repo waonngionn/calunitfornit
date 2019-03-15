@@ -9,7 +9,7 @@
     data-url="http://waonn.sakura.ne.jp/calunitfornit/"
     data-text="わたしの卒業までに必要な単位数は{{$result}}単位でした！"
     data-lang="ja"
-    data-hashtags="#沼津高専単位計算"
+    data-hashtags="沼津高専単位計算"
     data-size="large"
     >ツイート</a>
 </div>
