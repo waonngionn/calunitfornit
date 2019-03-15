@@ -15,7 +15,7 @@
     <meta property="og:url" content="http://waonn.sakura.ne.jp/calunitfornit/" />
     <meta property="og:image" content="http://waonn.sakura.ne.jp/calunitfornit/storage/calunitfornitmark.png" />
     <meta property="og:site_name" content="沼津高専生限定単位計算webアプリ" />
-    <meta property="og:description" content="沼津高専生が選択単位を選択する時の参考にするツール" />
+    <meta property="og:description" content="沼津高専生が卒業までに必要な単位数を計算します" />
 
 </head>
 <body>
