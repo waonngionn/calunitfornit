@@ -81,7 +81,5 @@
             <!-- <a href="{{url()->current()}}/result/" class="btn btn-primary">計算</a> -->
             <button class="btn btn-primary">計算</button>
         </div>
-      </form>
-
-      <img src="/storage/calunitfornitmark.png">      
+      </form>  
 @endsection
