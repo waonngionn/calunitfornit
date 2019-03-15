@@ -8,6 +8,16 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+
+    <meta name="twitter:title" content="回答完了">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://s3.peing.net/t/uploads/item/eye_catch/159089879/c32f717b.jpg">
+    <meta name="twitter:image:alt" content="wa">
+    <meta name="twitter:description" content="Peing -質問箱-で質問箱を作ってURLをTwitterに掲載しよう！質問箱には誰でも匿名で質問が送れます！">
+    <meta name="twitter:url" content="https://peing.net/ja/q/26aaa5ba-8321-4bc6-8280-c418c88a60fc/completed">
+    <meta name="twitter:site" content="@peing_net">
+    <meta name="twitter:domain" content="peing.net">
+    
 </head>
 <body>
     <!-- header -->
