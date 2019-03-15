@@ -31,6 +31,9 @@ class CalUnitController extends Controller
         if($request->department == "N"){
             return view('cal_unit.index', ["error_msg" => "学科が選択されていません"]);
         }
+        if(!ctype_digit($request->toeicscore)){
+            return view('cal_unit.index', ["error_msg" => "TOEICの点数は数字のみ入力してください"]);
+        }
         $department  = $this->calDepartmentNecessaryUnit($request->department);
         $outsideunit = (int)$request->outsideunit;
         $toeicunit   = $this->calToeictoUnit($request->toeicscore);
