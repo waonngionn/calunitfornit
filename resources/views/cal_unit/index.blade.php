@@ -57,7 +57,7 @@
           </select>
         </div>
         <div class="form-group">
-          <label class="control-label">TOEICの点数(受けてない人は「0」を入力してください)</label>
+          <label class="control-label">TOEICの点数(受けてない人は何も入力しなくて大丈夫です)</label>
           <input type="text" name="toeicscore" class="form-control" value="{{old('toeicscore')}}" placeholder="300">
         </div>
         <div class="form-group mb-5">
