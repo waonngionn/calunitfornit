@@ -6,7 +6,7 @@
         5年生最初の選択科目を選択する際の補助ツール
     </p>
 </div>
-<form action="/result" method="post">
+<form action="./result" method="post">
     {{ csrf_field() }}
     <div class="form-group">
         <label class="control-label">学年</label>
