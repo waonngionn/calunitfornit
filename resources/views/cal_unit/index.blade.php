@@ -6,12 +6,17 @@
         5年生最初の選択科目を選択する際の補助ツール
     </p>
 </div>
+
+@if(isset($error_msg))
+<p class="text-danger">{{$error_msg}}</p>
+@endif
+
 <form action="./result" method="post">
     {{ csrf_field() }}
-    <div class="form-group">
+    <!-- <div class="form-group">
         <label class="control-label">学年</label>
           <label>4年生</label>
-        </div>
+        </div> -->
         <div class="form-group">
           <label class="control-label">学科</label>
           <select name="department" class="form-control">
@@ -50,9 +55,9 @@
         </div>
         <div class="form-group">
           <label class="control-label">TOEICの点数</label>
-          <input type="text" name="toeicscore" class="form-control" placeholder="300">
+          <input type="text" name="toeicscore" class="form-control" value="{{old('toeicscore')}}" placeholder="300">
         </div>
-        <div class="form-group ">
+        <div class="form-group mb-5">
           <label class="control-label">落単位数（科目ではなく単位を選択してください）</label>
           <select name="dropunit" class="form-control">
             <option selected>0</option>

@@ -17,7 +17,15 @@
 <div>
     <p>
         この計算結果は5年生の必修科目をすべて取得する計算です。
+    </p>
+    <p>
+        法学もしくは経済学は含まれていません。
+    </p>
+    <p>
         選択科目を選択する際の参考にしてください。
+    </p>
+    <p>
+        <a href="http://www.numazu-ct.ac.jp/wp-content/uploads/03campuslife/14handbook/H30handbook.pdf">学生生活の手引き（元学生便覧）</a>
     </p>
 </div>
 @endsection

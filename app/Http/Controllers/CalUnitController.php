@@ -28,6 +28,9 @@ class CalUnitController extends Controller
     }
 
     public function result(Request $request){
+        if($request->department == "N"){
+            return view('cal_unit.index', ["error_msg" => "学科が選択されていません"]);
+        }
         $department  = $this->calDepartmentNecessaryUnit($request->department);
         $outsideunit = (int)$request->outsideunit;
         $toeicunit   = $this->calToeictoUnit($request->toeicscore);

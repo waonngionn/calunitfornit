@@ -13,6 +13,5 @@
 
 Route::get('/', 'CalUnitController@index');
 
-// ローカル環境
 Route::post('/result', 'CalUnitController@result');
 
