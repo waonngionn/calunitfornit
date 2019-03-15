@@ -25,13 +25,19 @@
     <meta name="twitter:url" content="http://waonn.sakura.ne.jp/calunitfornit/"> -->
 
     <meta name="twitter:card" content="summary" />
-    <meta property="og:title" content="沼津高専生限定単位計算webアプリ" />
+    <!-- <meta property="og:title" content="沼津高専生限定単位計算webアプリ" />
     <meta property="og:description" content="沼津高専生限定単位計算webアプリ" />
     <meta property="og:url" content="http://waonn.sakura.ne.jp/calunitfornit/" />
-    <meta property="og:image" content="http://waonn.sakura.ne.jp/calunitfornit/calunitfornitmark.png"" />
+    <meta property="og:image" content="http://waonn.sakura.ne.jp/calunitfornit/calunitfornitmark.png"" /> -->
     <!-- <meta name="twitter:site" content="@peing_net">
     <meta name="twitter:domain" content="peing.net"> -->
-    
+    <meta property="og:title" content="沼津高専生限定単位計算webアプリ" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://waonn.sakura.ne.jp/calunitfornit/" />
+    <meta property="og:image" content="http://waonn.sakura.ne.jp/calunitfornit/storage/calunitfornitmark.png" />
+    <meta property="og:site_name" content="沼津高専生限定単位計算webアプリ" />
+    <meta property="og:description" content="高専生が選択単位を選択する時の参考にするツール" />
+
 </head>
 <body>
     <!-- header -->
