@@ -21,7 +21,7 @@
 <body>
     <!-- header -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-5">
-        <a class="navbar-brand mx-auto" href="/">【沼津高専限定】単位計算webアプリ</a>
+        <a class="navbar-brand mx-auto" href="/">【沼津高専限定】卒業までに必要な単位計算webアプリ</a>
     </nav>
     <!-- /header -->
     <div class="container-fluid">
