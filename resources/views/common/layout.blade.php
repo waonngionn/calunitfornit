@@ -17,12 +17,18 @@
     <meta name="twitter:url" content="https://peing.net/ja/q/26aaa5ba-8321-4bc6-8280-c418c88a60fc/completed">
     <meta name="twitter:site" content="@peing_net">
     <meta name="twitter:domain" content="peing.net"> -->
-    <meta name="twitter:title" content="沼津高専生限定単位計算webアプリ">
+    <!-- <meta name="twitter:title" content="沼津高専生限定単位計算webアプリ">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:image" content="http://waonn.sakura.ne.jp/calunitfornit/calunitfornitmark.png">
     <meta name="twitter:image:alt" content="沼津高専生限定単位計算webアプリ">
     <meta name="twitter:description" content="沼津高専生限定、単位計算webアプリ">
-    <meta name="twitter:url" content="http://waonn.sakura.ne.jp/calunitfornit/">
+    <meta name="twitter:url" content="http://waonn.sakura.ne.jp/calunitfornit/"> -->
+
+    <meta name="twitter:card" content="summary" />
+    <meta property="og:title" content="沼津高専生限定単位計算webアプリ" />
+    <meta property="og:description" content="沼津高専生限定単位計算webアプリ" />
+    <meta property="og:url" content="http://waonn.sakura.ne.jp/calunitfornit/" />
+    <meta property="og:image" content="http://waonn.sakura.ne.jp/calunitfornit/calunitfornitmark.png"" />
     <!-- <meta name="twitter:site" content="@peing_net">
     <meta name="twitter:domain" content="peing.net"> -->
     
