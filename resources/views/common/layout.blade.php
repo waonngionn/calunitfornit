@@ -17,14 +17,14 @@
     <meta name="twitter:url" content="https://peing.net/ja/q/26aaa5ba-8321-4bc6-8280-c418c88a60fc/completed">
     <meta name="twitter:site" content="@peing_net">
     <meta name="twitter:domain" content="peing.net"> -->
-    <meta name="twitter:title" content="計算結果">
-    <meta name="twitter:card" content="summary">
+    <!-- <meta name="twitter:title" content="計算結果">
+    <meta name="twitter:card" content="summary"> -->
     <!-- <meta name="twitter:image" content="https://s3.peing.net/t/uploads/item/eye_catch/159089879/c32f717b.jpg"> -->
     <!-- <meta name="twitter:image:alt" content="wa"> -->
-    <meta name="twitter:description" content="沼津高専生限定、単位計算webアプリ">
+    <!-- <meta name="twitter:description" content="沼津高専生限定、単位計算webアプリ">
     <meta name="twitter:url" content="http://waonn.sakura.ne.jp/calunitfornit/">
     <meta name="twitter:site" content="@peing_net">
-    <meta name="twitter:domain" content="peing.net">
+    <meta name="twitter:domain" content="peing.net"> -->
     
 </head>
 <body>
